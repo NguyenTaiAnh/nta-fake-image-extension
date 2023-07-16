@@ -4,7 +4,7 @@
 	"description": "random image",
 	"version": "0.0.1",
 	"publisher": "nta-fake-image",
-	"repository": "",
+	"repository": "https://github.com/NguyenTaiAnh/nta-fake-image-extension.git",
 	"engines": {
 		"vscode": "^1.74.0"
 	},

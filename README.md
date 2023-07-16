@@ -36,11 +36,11 @@ There are currently no configuration options for this extension. The random imag
 
 ## Support and Feedback
 
-If you encounter any issues or have suggestions for improvements, please feel free to [open an issue on GitHub](https://github.com/your-github-username/nta-fake-image-extension/issues). Your feedback is greatly appreciated!
+If you encounter any issues or have suggestions for improvements, please feel free to [open an issue on GitHub](https://github.com/NguyenTaiAnh/nta-fake-image-extension/issues). Your feedback is greatly appreciated!
 
 ## About
 
-The NTA Fake Image Extension is an open-source project developed by [Your Name](https://github.com/your-github-username). Contributions and feedback are welcome.
+The NTA Fake Image Extension is an open-source project developed by [Your Name](https://github.com/NguyenTaiAnh). Contributions and feedback are welcome.
 
 ## License
 
