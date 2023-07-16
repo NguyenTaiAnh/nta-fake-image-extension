@@ -1,0 +1,46 @@
+{
+	"name": "nta-fake-image",
+	"displayName": "nta-fake-image",
+	"description": "random image",
+	"version": "0.0.1",
+	"publisher": "nta-fake-image",
+	"repository": "",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.ntaFakeImage",
+				"title": "NTA fakeImage"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"lint": "eslint \"src/**/*.ts\"",
+		"watch": "tsc -watch -p ./"
+	},
+	"devDependencies": {
+		"@types/glob": "^8.1.0",
+		"@types/mocha": "^10.0.1",
+		"@types/node": "^16.18.34",
+		"@types/sinon": "^10.0.15",
+		"@types/vscode": "^1.73.0",
+		"@typescript-eslint/eslint-plugin": "^5.42.0",
+		"@typescript-eslint/parser": "^5.42.0",
+		"eslint": "^8.26.0",
+		"typescript": "^5.1.3"
+	},
+	"dependencies": {
+		"@vscode/test-electron": "^2.3.3",
+		"axios": "^1.4.0",
+		"sinon": "^15.2.0"
+	}
+}
